@@ -25,7 +25,7 @@ if ($mode == "edt" || $mode == "act_edt") {
 	$no_surat	= "";
 	$tgl_surat	= "";
 	$uraian		= "";
-	$ket		= "";
+	$ket		= ""; // keterangan
 }
 ?>
 <div class="navbar navbar-inverse">
