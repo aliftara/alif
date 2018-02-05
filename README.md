@@ -1,4 +1,4 @@
-# ASAMURAT - Aplikasi SederhanA 
+# opolah - Aplikasi SederhanA 
 
 
 Lihat penjelasannya di b
